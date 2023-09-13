@@ -5,9 +5,6 @@ const app = express();
 const port = 3000;
 
 
-//hello
-//hello there lmao
-
 
 //Step 3 - Make the styling show up.
 //Hint 1: CSS files are static files!
